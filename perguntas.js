@@ -14,6 +14,7 @@ criaCartao(
     'pi vale 3,14'
 )
 criaCartao(
+    'Matemática',
     'quanto é 99-86?',
     'O resultado da conta é 13'
 )
